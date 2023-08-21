@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kaiky 👋
 
-- 🔭 Hoje atuo como estudante universitário
-- 🌱 Estou estudando Python
+- 🖥 Técnico em Informática
+- 🚀 Full Stack ás vezes
 
 <div>
   <a href="https://github.com/KaikyTDOM">
