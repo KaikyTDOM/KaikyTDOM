@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kaiky 👋
 
 - 🖥 Técnico em Informática
-- 🚀 Full Stack ás vezes
+- 🚀 Full Stack(de vez em nunca)
 
 <div>
   <a href="https://github.com/KaikyTDOM">
